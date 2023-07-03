@@ -1,0 +1,1636 @@
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+07/03/2023 15:47:26
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 15:47:26
+07/03/2023 15:48:11Requested the get method of index page.
+07/03/2023 15:48:11The value of i is 0.
+07/03/2023 15:48:11The value of i is 1.
+07/03/2023 15:48:11The value of i is 2.
+07/03/2023 15:48:11The value of i is 3.
+07/03/2023 15:48:11The value of i is 4.
+07/03/2023 15:48:11The value of i is 5.
+07/03/2023 15:48:11The value of i is 6.
+07/03/2023 15:48:11The value of i is 7.
+07/03/2023 15:48:11The value of i is 8.
+07/03/2023 15:48:11The value of i is 9.
+07/03/2023 15:48:11The value of i is 10.
+07/03/2023 15:48:11The value of i is 11.
+07/03/2023 15:48:11The value of i is 12.
+07/03/2023 15:48:11The value of i is 13.
+07/03/2023 15:48:11The value of i is 14.
+07/03/2023 15:48:11The value of i is 15.
+07/03/2023 15:48:11The value of i is 16.
+07/03/2023 15:48:11The value of i is 17.
+07/03/2023 15:48:11The value of i is 18.
+07/03/2023 15:48:11The value of i is 19.
+07/03/2023 15:48:11The value of i is 20.
+07/03/2023 15:48:11The value of i is 21.
+07/03/2023 15:48:11The value of i is 22.
+07/03/2023 15:48:11The value of i is 23.
+07/03/2023 15:48:11The value of i is 24.
+07/03/2023 15:48:11The value of i is 25.
+07/03/2023 15:48:11The value of i is 26.
+07/03/2023 15:48:11The value of i is 27.
+07/03/2023 15:48:11The value of i is 28.
+07/03/2023 15:48:11The value of i is 29.
+07/03/2023 15:48:11The value of i is 30.
+07/03/2023 15:48:11The value of i is 31.
+07/03/2023 15:48:11The value of i is 32.
+07/03/2023 15:48:11The value of i is 33.
+07/03/2023 15:48:11The value of i is 34.
+07/03/2023 15:48:11The value of i is 35.
+07/03/2023 15:48:11The value of i is 36.
+07/03/2023 15:48:11The value of i is 37.
+07/03/2023 15:48:11The value of i is 38.
+07/03/2023 15:48:11The value of i is 39.
+07/03/2023 15:48:11The value of i is 40.
+07/03/2023 15:48:11The value of i is 41.
+07/03/2023 15:48:11The value of i is 42.
+07/03/2023 15:48:11The value of i is 43.
+07/03/2023 15:48:11The value of i is 44.
+07/03/2023 15:48:11The value of i is 45.
+07/03/2023 15:48:11The value of i is 46.
+07/03/2023 15:48:11The value of i is 47.
+07/03/2023 15:48:11The value of i is 48.
+07/03/2023 15:48:11The value of i is 49.
+07/03/2023 15:48:11Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 15:48:11HTTP "GET" "/" responded 200 in 324.3518 ms
+07/03/2023 15:49:25Requested the get method of index page.
+07/03/2023 15:49:25The value of i is 0.
+07/03/2023 15:49:25The value of i is 1.
+07/03/2023 15:49:25The value of i is 2.
+07/03/2023 15:49:25The value of i is 3.
+07/03/2023 15:49:25The value of i is 4.
+07/03/2023 15:49:25The value of i is 5.
+07/03/2023 15:49:25The value of i is 6.
+07/03/2023 15:49:25The value of i is 7.
+07/03/2023 15:49:25The value of i is 8.
+07/03/2023 15:49:25The value of i is 9.
+07/03/2023 15:49:25The value of i is 10.
+07/03/2023 15:49:25The value of i is 11.
+07/03/2023 15:49:25The value of i is 12.
+07/03/2023 15:49:25The value of i is 13.
+07/03/2023 15:49:25The value of i is 14.
+07/03/2023 15:49:25The value of i is 15.
+07/03/2023 15:49:25The value of i is 16.
+07/03/2023 15:49:25The value of i is 17.
+07/03/2023 15:49:25The value of i is 18.
+07/03/2023 15:49:25The value of i is 19.
+07/03/2023 15:49:25The value of i is 20.
+07/03/2023 15:49:25The value of i is 21.
+07/03/2023 15:49:25The value of i is 22.
+07/03/2023 15:49:25The value of i is 23.
+07/03/2023 15:49:25The value of i is 24.
+07/03/2023 15:49:25The value of i is 25.
+07/03/2023 15:49:25The value of i is 26.
+07/03/2023 15:49:25The value of i is 27.
+07/03/2023 15:49:25The value of i is 28.
+07/03/2023 15:49:25The value of i is 29.
+07/03/2023 15:49:25The value of i is 30.
+07/03/2023 15:49:25The value of i is 31.
+07/03/2023 15:49:25The value of i is 32.
+07/03/2023 15:49:25The value of i is 33.
+07/03/2023 15:49:25The value of i is 34.
+07/03/2023 15:49:25The value of i is 35.
+07/03/2023 15:49:25The value of i is 36.
+07/03/2023 15:49:25The value of i is 37.
+07/03/2023 15:49:25The value of i is 38.
+07/03/2023 15:49:25The value of i is 39.
+07/03/2023 15:49:25The value of i is 40.
+07/03/2023 15:49:25The value of i is 41.
+07/03/2023 15:49:25The value of i is 42.
+07/03/2023 15:49:25The value of i is 43.
+07/03/2023 15:49:25The value of i is 44.
+07/03/2023 15:49:25The value of i is 45.
+07/03/2023 15:49:25The value of i is 46.
+07/03/2023 15:49:25The value of i is 47.
+07/03/2023 15:49:25The value of i is 48.
+07/03/2023 15:49:25The value of i is 49.
+07/03/2023 15:49:25Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 15:49:25HTTP GET / responded 200 in 260.3395 ms
+07/03/2023 16:18:46Requested the get method of index page.
+07/03/2023 16:18:46The value of i is 0.
+07/03/2023 16:18:46The value of i is 1.
+07/03/2023 16:18:46The value of i is 2.
+07/03/2023 16:18:46The value of i is 3.
+07/03/2023 16:18:46The value of i is 4.
+07/03/2023 16:18:46The value of i is 5.
+07/03/2023 16:18:46The value of i is 6.
+07/03/2023 16:18:46The value of i is 7.
+07/03/2023 16:18:46The value of i is 8.
+07/03/2023 16:18:46The value of i is 9.
+07/03/2023 16:18:46The value of i is 10.
+07/03/2023 16:18:46The value of i is 11.
+07/03/2023 16:18:46The value of i is 12.
+07/03/2023 16:18:46The value of i is 13.
+07/03/2023 16:18:46The value of i is 14.
+07/03/2023 16:18:46The value of i is 15.
+07/03/2023 16:18:46The value of i is 16.
+07/03/2023 16:18:46The value of i is 17.
+07/03/2023 16:18:46The value of i is 18.
+07/03/2023 16:18:46The value of i is 19.
+07/03/2023 16:18:46The value of i is 20.
+07/03/2023 16:18:46The value of i is 21.
+07/03/2023 16:18:46The value of i is 22.
+07/03/2023 16:18:46The value of i is 23.
+07/03/2023 16:18:46The value of i is 24.
+07/03/2023 16:18:46The value of i is 25.
+07/03/2023 16:18:46The value of i is 26.
+07/03/2023 16:18:46The value of i is 27.
+07/03/2023 16:18:46The value of i is 28.
+07/03/2023 16:18:46The value of i is 29.
+07/03/2023 16:18:46The value of i is 30.
+07/03/2023 16:18:46The value of i is 31.
+07/03/2023 16:18:46The value of i is 32.
+07/03/2023 16:18:46The value of i is 33.
+07/03/2023 16:18:46The value of i is 34.
+07/03/2023 16:18:46The value of i is 35.
+07/03/2023 16:18:46The value of i is 36.
+07/03/2023 16:18:46The value of i is 37.
+07/03/2023 16:18:46The value of i is 38.
+07/03/2023 16:18:46The value of i is 39.
+07/03/2023 16:18:46The value of i is 40.
+07/03/2023 16:18:46The value of i is 41.
+07/03/2023 16:18:46The value of i is 42.
+07/03/2023 16:18:46The value of i is 43.
+07/03/2023 16:18:46The value of i is 44.
+07/03/2023 16:18:46The value of i is 45.
+07/03/2023 16:18:46The value of i is 46.
+07/03/2023 16:18:46The value of i is 47.
+07/03/2023 16:18:46The value of i is 48.
+07/03/2023 16:18:46The value of i is 49.
+07/03/2023 16:18:46Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:18:47HTTP GET / responded 200 in 344.3618 ms
+07/03/2023 16:23:19Requested the get method of index page.
+07/03/2023 16:23:19The value of i is 0.
+07/03/2023 16:23:19The value of i is 1.
+07/03/2023 16:23:19The value of i is 2.
+07/03/2023 16:23:19The value of i is 3.
+07/03/2023 16:23:19The value of i is 4.
+07/03/2023 16:23:19The value of i is 5.
+07/03/2023 16:23:19The value of i is 6.
+07/03/2023 16:23:19The value of i is 7.
+07/03/2023 16:23:19The value of i is 8.
+07/03/2023 16:23:19The value of i is 9.
+07/03/2023 16:23:19The value of i is 10.
+07/03/2023 16:23:19The value of i is 11.
+07/03/2023 16:23:19The value of i is 12.
+07/03/2023 16:23:19The value of i is 13.
+07/03/2023 16:23:19The value of i is 14.
+07/03/2023 16:23:19The value of i is 15.
+07/03/2023 16:23:19The value of i is 16.
+07/03/2023 16:23:19The value of i is 17.
+07/03/2023 16:23:19The value of i is 18.
+07/03/2023 16:23:19The value of i is 19.
+07/03/2023 16:23:19The value of i is 20.
+07/03/2023 16:23:19The value of i is 21.
+07/03/2023 16:23:19The value of i is 22.
+07/03/2023 16:23:19The value of i is 23.
+07/03/2023 16:23:19The value of i is 24.
+07/03/2023 16:23:19The value of i is 25.
+07/03/2023 16:23:19The value of i is 26.
+07/03/2023 16:23:19The value of i is 27.
+07/03/2023 16:23:19The value of i is 28.
+07/03/2023 16:23:19The value of i is 29.
+07/03/2023 16:23:19The value of i is 30.
+07/03/2023 16:23:19The value of i is 31.
+07/03/2023 16:23:19The value of i is 32.
+07/03/2023 16:23:19The value of i is 33.
+07/03/2023 16:23:19The value of i is 34.
+07/03/2023 16:23:19The value of i is 35.
+07/03/2023 16:23:19The value of i is 36.
+07/03/2023 16:23:19The value of i is 37.
+07/03/2023 16:23:19The value of i is 38.
+07/03/2023 16:23:19The value of i is 39.
+07/03/2023 16:23:19The value of i is 40.
+07/03/2023 16:23:19The value of i is 41.
+07/03/2023 16:23:19The value of i is 42.
+07/03/2023 16:23:19The value of i is 43.
+07/03/2023 16:23:19The value of i is 44.
+07/03/2023 16:23:19The value of i is 45.
+07/03/2023 16:23:19The value of i is 46.
+07/03/2023 16:23:19The value of i is 47.
+07/03/2023 16:23:19The value of i is 48.
+07/03/2023 16:23:19The value of i is 49.
+07/03/2023 16:23:19Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:23:19HTTP GET / responded 200 in 273.7491 ms
+07/03/2023 16:34:35Requested the get method of index page.
+07/03/2023 16:34:35The value of i is 0.
+07/03/2023 16:34:35The value of i is 1.
+07/03/2023 16:34:35The value of i is 2.
+07/03/2023 16:34:35The value of i is 3.
+07/03/2023 16:34:35The value of i is 4.
+07/03/2023 16:34:35The value of i is 5.
+07/03/2023 16:34:35The value of i is 6.
+07/03/2023 16:34:35The value of i is 7.
+07/03/2023 16:34:35The value of i is 8.
+07/03/2023 16:34:35The value of i is 9.
+07/03/2023 16:34:35The value of i is 10.
+07/03/2023 16:34:35The value of i is 11.
+07/03/2023 16:34:35The value of i is 12.
+07/03/2023 16:34:35The value of i is 13.
+07/03/2023 16:34:35The value of i is 14.
+07/03/2023 16:34:35The value of i is 15.
+07/03/2023 16:34:35The value of i is 16.
+07/03/2023 16:34:35The value of i is 17.
+07/03/2023 16:34:35The value of i is 18.
+07/03/2023 16:34:35The value of i is 19.
+07/03/2023 16:34:35The value of i is 20.
+07/03/2023 16:34:35The value of i is 21.
+07/03/2023 16:34:35The value of i is 22.
+07/03/2023 16:34:35The value of i is 23.
+07/03/2023 16:34:35The value of i is 24.
+07/03/2023 16:34:35The value of i is 25.
+07/03/2023 16:34:35The value of i is 26.
+07/03/2023 16:34:35The value of i is 27.
+07/03/2023 16:34:35The value of i is 28.
+07/03/2023 16:34:35The value of i is 29.
+07/03/2023 16:34:35The value of i is 30.
+07/03/2023 16:34:35The value of i is 31.
+07/03/2023 16:34:35The value of i is 32.
+07/03/2023 16:34:35The value of i is 33.
+07/03/2023 16:34:35The value of i is 34.
+07/03/2023 16:34:35The value of i is 35.
+07/03/2023 16:34:35The value of i is 36.
+07/03/2023 16:34:35The value of i is 37.
+07/03/2023 16:34:35The value of i is 38.
+07/03/2023 16:34:35The value of i is 39.
+07/03/2023 16:34:35The value of i is 40.
+07/03/2023 16:34:35The value of i is 41.
+07/03/2023 16:34:35The value of i is 42.
+07/03/2023 16:34:35The value of i is 43.
+07/03/2023 16:34:35The value of i is 44.
+07/03/2023 16:34:35The value of i is 45.
+07/03/2023 16:34:35The value of i is 46.
+07/03/2023 16:34:35The value of i is 47.
+07/03/2023 16:34:35The value of i is 48.
+07/03/2023 16:34:35The value of i is 49.
+07/03/2023 16:34:35Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:34:36HTTP GET / responded 200 in 338.3099 ms
+07/03/2023 16:34:37HTTP GET /Privacy responded 200 in 17.7117 ms
+07/03/2023 16:34:38Requested the get method of index page.
+07/03/2023 16:34:38The value of i is 0.
+07/03/2023 16:34:38The value of i is 1.
+07/03/2023 16:34:38The value of i is 2.
+07/03/2023 16:34:38The value of i is 3.
+07/03/2023 16:34:38The value of i is 4.
+07/03/2023 16:34:38The value of i is 5.
+07/03/2023 16:34:38The value of i is 6.
+07/03/2023 16:34:38The value of i is 7.
+07/03/2023 16:34:38The value of i is 8.
+07/03/2023 16:34:38The value of i is 9.
+07/03/2023 16:34:38The value of i is 10.
+07/03/2023 16:34:38The value of i is 11.
+07/03/2023 16:34:38The value of i is 12.
+07/03/2023 16:34:38The value of i is 13.
+07/03/2023 16:34:38The value of i is 14.
+07/03/2023 16:34:38The value of i is 15.
+07/03/2023 16:34:38The value of i is 16.
+07/03/2023 16:34:38The value of i is 17.
+07/03/2023 16:34:38The value of i is 18.
+07/03/2023 16:34:38The value of i is 19.
+07/03/2023 16:34:38The value of i is 20.
+07/03/2023 16:34:38The value of i is 21.
+07/03/2023 16:34:38The value of i is 22.
+07/03/2023 16:34:38The value of i is 23.
+07/03/2023 16:34:38The value of i is 24.
+07/03/2023 16:34:38The value of i is 25.
+07/03/2023 16:34:38The value of i is 26.
+07/03/2023 16:34:38The value of i is 27.
+07/03/2023 16:34:38The value of i is 28.
+07/03/2023 16:34:38The value of i is 29.
+07/03/2023 16:34:38The value of i is 30.
+07/03/2023 16:34:38The value of i is 31.
+07/03/2023 16:34:38The value of i is 32.
+07/03/2023 16:34:38The value of i is 33.
+07/03/2023 16:34:38The value of i is 34.
+07/03/2023 16:34:38The value of i is 35.
+07/03/2023 16:34:38The value of i is 36.
+07/03/2023 16:34:38The value of i is 37.
+07/03/2023 16:34:38The value of i is 38.
+07/03/2023 16:34:38The value of i is 39.
+07/03/2023 16:34:38The value of i is 40.
+07/03/2023 16:34:38The value of i is 41.
+07/03/2023 16:34:38The value of i is 42.
+07/03/2023 16:34:38The value of i is 43.
+07/03/2023 16:34:38The value of i is 44.
+07/03/2023 16:34:38The value of i is 45.
+07/03/2023 16:34:38The value of i is 46.
+07/03/2023 16:34:38The value of i is 47.
+07/03/2023 16:34:38The value of i is 48.
+07/03/2023 16:34:38The value of i is 49.
+07/03/2023 16:34:38Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:34:38HTTP GET / responded 200 in 50.5981 ms
+07/03/2023 16:35:12Requested the get method of index page.
+07/03/2023 16:35:12The value of i is 0.
+07/03/2023 16:35:12The value of i is 1.
+07/03/2023 16:35:12The value of i is 2.
+07/03/2023 16:35:12The value of i is 3.
+07/03/2023 16:35:12The value of i is 4.
+07/03/2023 16:35:12The value of i is 5.
+07/03/2023 16:35:12The value of i is 6.
+07/03/2023 16:35:12The value of i is 7.
+07/03/2023 16:35:12The value of i is 8.
+07/03/2023 16:35:12The value of i is 9.
+07/03/2023 16:35:12The value of i is 10.
+07/03/2023 16:35:12The value of i is 11.
+07/03/2023 16:35:12The value of i is 12.
+07/03/2023 16:35:12The value of i is 13.
+07/03/2023 16:35:12The value of i is 14.
+07/03/2023 16:35:12The value of i is 15.
+07/03/2023 16:35:12The value of i is 16.
+07/03/2023 16:35:12The value of i is 17.
+07/03/2023 16:35:12The value of i is 18.
+07/03/2023 16:35:12The value of i is 19.
+07/03/2023 16:35:12The value of i is 20.
+07/03/2023 16:35:12The value of i is 21.
+07/03/2023 16:35:12The value of i is 22.
+07/03/2023 16:35:12The value of i is 23.
+07/03/2023 16:35:12The value of i is 24.
+07/03/2023 16:35:12The value of i is 25.
+07/03/2023 16:35:12The value of i is 26.
+07/03/2023 16:35:12The value of i is 27.
+07/03/2023 16:35:12The value of i is 28.
+07/03/2023 16:35:12The value of i is 29.
+07/03/2023 16:35:12The value of i is 30.
+07/03/2023 16:35:12The value of i is 31.
+07/03/2023 16:35:12The value of i is 32.
+07/03/2023 16:35:12The value of i is 33.
+07/03/2023 16:35:12The value of i is 34.
+07/03/2023 16:35:12The value of i is 35.
+07/03/2023 16:35:12The value of i is 36.
+07/03/2023 16:35:12The value of i is 37.
+07/03/2023 16:35:12The value of i is 38.
+07/03/2023 16:35:12The value of i is 39.
+07/03/2023 16:35:12The value of i is 40.
+07/03/2023 16:35:12The value of i is 41.
+07/03/2023 16:35:12The value of i is 42.
+07/03/2023 16:35:12The value of i is 43.
+07/03/2023 16:35:12The value of i is 44.
+07/03/2023 16:35:12The value of i is 45.
+07/03/2023 16:35:12The value of i is 46.
+07/03/2023 16:35:12The value of i is 47.
+07/03/2023 16:35:12The value of i is 48.
+07/03/2023 16:35:12The value of i is 49.
+07/03/2023 16:35:12Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:35:13HTTP GET / responded 200 in 290.4379 ms
+07/03/2023 16:35:14Requested the get method of index page.
+07/03/2023 16:35:14The value of i is 0.
+07/03/2023 16:35:14The value of i is 1.
+07/03/2023 16:35:14The value of i is 2.
+07/03/2023 16:35:14The value of i is 3.
+07/03/2023 16:35:14The value of i is 4.
+07/03/2023 16:35:14The value of i is 5.
+07/03/2023 16:35:14The value of i is 6.
+07/03/2023 16:35:14The value of i is 7.
+07/03/2023 16:35:14The value of i is 8.
+07/03/2023 16:35:14The value of i is 9.
+07/03/2023 16:35:14The value of i is 10.
+07/03/2023 16:35:14The value of i is 11.
+07/03/2023 16:35:14The value of i is 12.
+07/03/2023 16:35:14The value of i is 13.
+07/03/2023 16:35:14The value of i is 14.
+07/03/2023 16:35:14The value of i is 15.
+07/03/2023 16:35:14The value of i is 16.
+07/03/2023 16:35:14The value of i is 17.
+07/03/2023 16:35:14The value of i is 18.
+07/03/2023 16:35:14The value of i is 19.
+07/03/2023 16:35:14The value of i is 20.
+07/03/2023 16:35:14The value of i is 21.
+07/03/2023 16:35:14The value of i is 22.
+07/03/2023 16:35:14The value of i is 23.
+07/03/2023 16:35:14The value of i is 24.
+07/03/2023 16:35:14The value of i is 25.
+07/03/2023 16:35:14The value of i is 26.
+07/03/2023 16:35:14The value of i is 27.
+07/03/2023 16:35:14The value of i is 28.
+07/03/2023 16:35:14The value of i is 29.
+07/03/2023 16:35:14The value of i is 30.
+07/03/2023 16:35:14The value of i is 31.
+07/03/2023 16:35:14The value of i is 32.
+07/03/2023 16:35:14The value of i is 33.
+07/03/2023 16:35:14The value of i is 34.
+07/03/2023 16:35:14The value of i is 35.
+07/03/2023 16:35:14The value of i is 36.
+07/03/2023 16:35:14The value of i is 37.
+07/03/2023 16:35:14The value of i is 38.
+07/03/2023 16:35:14The value of i is 39.
+07/03/2023 16:35:14The value of i is 40.
+07/03/2023 16:35:14The value of i is 41.
+07/03/2023 16:35:14The value of i is 42.
+07/03/2023 16:35:14The value of i is 43.
+07/03/2023 16:35:14The value of i is 44.
+07/03/2023 16:35:14The value of i is 45.
+07/03/2023 16:35:14The value of i is 46.
+07/03/2023 16:35:14The value of i is 47.
+07/03/2023 16:35:14The value of i is 48.
+07/03/2023 16:35:14The value of i is 49.
+07/03/2023 16:35:14Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:35:14HTTP GET / responded 200 in 58.8396 ms
+07/03/2023 16:35:15Requested the get method of index page.
+07/03/2023 16:35:15The value of i is 0.
+07/03/2023 16:35:15The value of i is 1.
+07/03/2023 16:35:15The value of i is 2.
+07/03/2023 16:35:15The value of i is 3.
+07/03/2023 16:35:15The value of i is 4.
+07/03/2023 16:35:15The value of i is 5.
+07/03/2023 16:35:15The value of i is 6.
+07/03/2023 16:35:15The value of i is 7.
+07/03/2023 16:35:15The value of i is 8.
+07/03/2023 16:35:15The value of i is 9.
+07/03/2023 16:35:15The value of i is 10.
+07/03/2023 16:35:15The value of i is 11.
+07/03/2023 16:35:15The value of i is 12.
+07/03/2023 16:35:15The value of i is 13.
+07/03/2023 16:35:15The value of i is 14.
+07/03/2023 16:35:15The value of i is 15.
+07/03/2023 16:35:15The value of i is 16.
+07/03/2023 16:35:15The value of i is 17.
+07/03/2023 16:35:15The value of i is 18.
+07/03/2023 16:35:15The value of i is 19.
+07/03/2023 16:35:15The value of i is 20.
+07/03/2023 16:35:15The value of i is 21.
+07/03/2023 16:35:15The value of i is 22.
+07/03/2023 16:35:15The value of i is 23.
+07/03/2023 16:35:15The value of i is 24.
+07/03/2023 16:35:15The value of i is 25.
+07/03/2023 16:35:15The value of i is 26.
+07/03/2023 16:35:15The value of i is 27.
+07/03/2023 16:35:15The value of i is 28.
+07/03/2023 16:35:15The value of i is 29.
+07/03/2023 16:35:15The value of i is 30.
+07/03/2023 16:35:15The value of i is 31.
+07/03/2023 16:35:15The value of i is 32.
+07/03/2023 16:35:15The value of i is 33.
+07/03/2023 16:35:15The value of i is 34.
+07/03/2023 16:35:15The value of i is 35.
+07/03/2023 16:35:15The value of i is 36.
+07/03/2023 16:35:15The value of i is 37.
+07/03/2023 16:35:15The value of i is 38.
+07/03/2023 16:35:15The value of i is 39.
+07/03/2023 16:35:15The value of i is 40.
+07/03/2023 16:35:15The value of i is 41.
+07/03/2023 16:35:15The value of i is 42.
+07/03/2023 16:35:15The value of i is 43.
+07/03/2023 16:35:15The value of i is 44.
+07/03/2023 16:35:15The value of i is 45.
+07/03/2023 16:35:15The value of i is 46.
+07/03/2023 16:35:15The value of i is 47.
+07/03/2023 16:35:15The value of i is 48.
+07/03/2023 16:35:15The value of i is 49.
+07/03/2023 16:35:15Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:35:15HTTP GET / responded 200 in 55.6036 ms
+07/03/2023 16:35:16Requested the get method of index page.
+07/03/2023 16:35:16The value of i is 0.
+07/03/2023 16:35:16The value of i is 1.
+07/03/2023 16:35:16The value of i is 2.
+07/03/2023 16:35:16The value of i is 3.
+07/03/2023 16:35:16The value of i is 4.
+07/03/2023 16:35:16The value of i is 5.
+07/03/2023 16:35:16The value of i is 6.
+07/03/2023 16:35:16The value of i is 7.
+07/03/2023 16:35:16The value of i is 8.
+07/03/2023 16:35:16The value of i is 9.
+07/03/2023 16:35:16The value of i is 10.
+07/03/2023 16:35:16The value of i is 11.
+07/03/2023 16:35:16The value of i is 12.
+07/03/2023 16:35:16The value of i is 13.
+07/03/2023 16:35:16The value of i is 14.
+07/03/2023 16:35:16The value of i is 15.
+07/03/2023 16:35:16The value of i is 16.
+07/03/2023 16:35:16The value of i is 17.
+07/03/2023 16:35:16The value of i is 18.
+07/03/2023 16:35:16The value of i is 19.
+07/03/2023 16:35:16The value of i is 20.
+07/03/2023 16:35:16The value of i is 21.
+07/03/2023 16:35:16The value of i is 22.
+07/03/2023 16:35:16The value of i is 23.
+07/03/2023 16:35:16The value of i is 24.
+07/03/2023 16:35:16The value of i is 25.
+07/03/2023 16:35:16The value of i is 26.
+07/03/2023 16:35:16The value of i is 27.
+07/03/2023 16:35:16The value of i is 28.
+07/03/2023 16:35:16The value of i is 29.
+07/03/2023 16:35:16The value of i is 30.
+07/03/2023 16:35:16The value of i is 31.
+07/03/2023 16:35:16The value of i is 32.
+07/03/2023 16:35:16The value of i is 33.
+07/03/2023 16:35:16The value of i is 34.
+07/03/2023 16:35:16The value of i is 35.
+07/03/2023 16:35:16The value of i is 36.
+07/03/2023 16:35:16The value of i is 37.
+07/03/2023 16:35:16The value of i is 38.
+07/03/2023 16:35:16The value of i is 39.
+07/03/2023 16:35:16The value of i is 40.
+07/03/2023 16:35:16The value of i is 41.
+07/03/2023 16:35:16The value of i is 42.
+07/03/2023 16:35:16The value of i is 43.
+07/03/2023 16:35:16The value of i is 44.
+07/03/2023 16:35:16The value of i is 45.
+07/03/2023 16:35:16The value of i is 46.
+07/03/2023 16:35:16The value of i is 47.
+07/03/2023 16:35:16The value of i is 48.
+07/03/2023 16:35:16The value of i is 49.
+07/03/2023 16:35:16Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:35:16HTTP GET / responded 200 in 52.7980 ms
+07/03/2023 16:35:16HTTP GET /Privacy responded 200 in 11.5683 ms
+07/03/2023 16:36:45Requested the get method of index page.
+07/03/2023 16:36:45The value of i is 0.
+07/03/2023 16:36:45The value of i is 1.
+07/03/2023 16:36:45The value of i is 2.
+07/03/2023 16:36:45The value of i is 3.
+07/03/2023 16:36:45The value of i is 4.
+07/03/2023 16:36:45The value of i is 5.
+07/03/2023 16:36:45The value of i is 6.
+07/03/2023 16:36:45The value of i is 7.
+07/03/2023 16:36:45The value of i is 8.
+07/03/2023 16:36:45The value of i is 9.
+07/03/2023 16:36:45The value of i is 10.
+07/03/2023 16:36:45The value of i is 11.
+07/03/2023 16:36:45The value of i is 12.
+07/03/2023 16:36:45The value of i is 13.
+07/03/2023 16:36:45The value of i is 14.
+07/03/2023 16:36:45The value of i is 15.
+07/03/2023 16:36:45The value of i is 16.
+07/03/2023 16:36:45The value of i is 17.
+07/03/2023 16:36:45The value of i is 18.
+07/03/2023 16:36:45The value of i is 19.
+07/03/2023 16:36:45The value of i is 20.
+07/03/2023 16:36:45The value of i is 21.
+07/03/2023 16:36:45The value of i is 22.
+07/03/2023 16:36:45The value of i is 23.
+07/03/2023 16:36:45The value of i is 24.
+07/03/2023 16:36:45The value of i is 25.
+07/03/2023 16:36:45The value of i is 26.
+07/03/2023 16:36:45The value of i is 27.
+07/03/2023 16:36:45The value of i is 28.
+07/03/2023 16:36:45The value of i is 29.
+07/03/2023 16:36:45The value of i is 30.
+07/03/2023 16:36:45The value of i is 31.
+07/03/2023 16:36:45The value of i is 32.
+07/03/2023 16:36:45The value of i is 33.
+07/03/2023 16:36:45The value of i is 34.
+07/03/2023 16:36:45The value of i is 35.
+07/03/2023 16:36:45The value of i is 36.
+07/03/2023 16:36:45The value of i is 37.
+07/03/2023 16:36:45The value of i is 38.
+07/03/2023 16:36:45The value of i is 39.
+07/03/2023 16:36:45The value of i is 40.
+07/03/2023 16:36:45The value of i is 41.
+07/03/2023 16:36:45The value of i is 42.
+07/03/2023 16:36:45The value of i is 43.
+07/03/2023 16:36:45The value of i is 44.
+07/03/2023 16:36:45The value of i is 45.
+07/03/2023 16:36:45The value of i is 46.
+07/03/2023 16:36:45The value of i is 47.
+07/03/2023 16:36:45The value of i is 48.
+07/03/2023 16:36:45The value of i is 49.
+07/03/2023 16:36:45Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:36:45HTTP GET / responded 200 in 349.2353 ms
+07/03/2023 16:36:46Requested the get method of index page.
+07/03/2023 16:36:46The value of i is 0.
+07/03/2023 16:36:46The value of i is 1.
+07/03/2023 16:36:46The value of i is 2.
+07/03/2023 16:36:46The value of i is 3.
+07/03/2023 16:36:46The value of i is 4.
+07/03/2023 16:36:46The value of i is 5.
+07/03/2023 16:36:46The value of i is 6.
+07/03/2023 16:36:46The value of i is 7.
+07/03/2023 16:36:46The value of i is 8.
+07/03/2023 16:36:46The value of i is 9.
+07/03/2023 16:36:46The value of i is 10.
+07/03/2023 16:36:46The value of i is 11.
+07/03/2023 16:36:46The value of i is 12.
+07/03/2023 16:36:46The value of i is 13.
+07/03/2023 16:36:46The value of i is 14.
+07/03/2023 16:36:46The value of i is 15.
+07/03/2023 16:36:46The value of i is 16.
+07/03/2023 16:36:46The value of i is 17.
+07/03/2023 16:36:46The value of i is 18.
+07/03/2023 16:36:46The value of i is 19.
+07/03/2023 16:36:46The value of i is 20.
+07/03/2023 16:36:46The value of i is 21.
+07/03/2023 16:36:46The value of i is 22.
+07/03/2023 16:36:46The value of i is 23.
+07/03/2023 16:36:46The value of i is 24.
+07/03/2023 16:36:46The value of i is 25.
+07/03/2023 16:36:46The value of i is 26.
+07/03/2023 16:36:46The value of i is 27.
+07/03/2023 16:36:46The value of i is 28.
+07/03/2023 16:36:46The value of i is 29.
+07/03/2023 16:36:46The value of i is 30.
+07/03/2023 16:36:46The value of i is 31.
+07/03/2023 16:36:46The value of i is 32.
+07/03/2023 16:36:46The value of i is 33.
+07/03/2023 16:36:46The value of i is 34.
+07/03/2023 16:36:46The value of i is 35.
+07/03/2023 16:36:46The value of i is 36.
+07/03/2023 16:36:46The value of i is 37.
+07/03/2023 16:36:46The value of i is 38.
+07/03/2023 16:36:46The value of i is 39.
+07/03/2023 16:36:46The value of i is 40.
+07/03/2023 16:36:46The value of i is 41.
+07/03/2023 16:36:46The value of i is 42.
+07/03/2023 16:36:46The value of i is 43.
+07/03/2023 16:36:46The value of i is 44.
+07/03/2023 16:36:46The value of i is 45.
+07/03/2023 16:36:46The value of i is 46.
+07/03/2023 16:36:46The value of i is 47.
+07/03/2023 16:36:46The value of i is 48.
+07/03/2023 16:36:46The value of i is 49.
+07/03/2023 16:36:46Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 16:36:47HTTP GET / responded 200 in 65.4048 ms
+07/03/2023 16:36:47HTTP GET /Privacy responded 200 in 16.4467 ms
+07/03/2023 17:45:14Requested the get method of index page.
+07/03/2023 17:45:14The value of i is 0.
+07/03/2023 17:45:14The value of i is 1.
+07/03/2023 17:45:14The value of i is 2.
+07/03/2023 17:45:14The value of i is 3.
+07/03/2023 17:45:14The value of i is 4.
+07/03/2023 17:45:14The value of i is 5.
+07/03/2023 17:45:14The value of i is 6.
+07/03/2023 17:45:14The value of i is 7.
+07/03/2023 17:45:14The value of i is 8.
+07/03/2023 17:45:14The value of i is 9.
+07/03/2023 17:45:14The value of i is 10.
+07/03/2023 17:45:14The value of i is 11.
+07/03/2023 17:45:14The value of i is 12.
+07/03/2023 17:45:14The value of i is 13.
+07/03/2023 17:45:14The value of i is 14.
+07/03/2023 17:45:14The value of i is 15.
+07/03/2023 17:45:14The value of i is 16.
+07/03/2023 17:45:14The value of i is 17.
+07/03/2023 17:45:14The value of i is 18.
+07/03/2023 17:45:14The value of i is 19.
+07/03/2023 17:45:14The value of i is 20.
+07/03/2023 17:45:14The value of i is 21.
+07/03/2023 17:45:14The value of i is 22.
+07/03/2023 17:45:14The value of i is 23.
+07/03/2023 17:45:14The value of i is 24.
+07/03/2023 17:45:14The value of i is 25.
+07/03/2023 17:45:14The value of i is 26.
+07/03/2023 17:45:14The value of i is 27.
+07/03/2023 17:45:14The value of i is 28.
+07/03/2023 17:45:14The value of i is 29.
+07/03/2023 17:45:14The value of i is 30.
+07/03/2023 17:45:14The value of i is 31.
+07/03/2023 17:45:14The value of i is 32.
+07/03/2023 17:45:14The value of i is 33.
+07/03/2023 17:45:14The value of i is 34.
+07/03/2023 17:45:14The value of i is 35.
+07/03/2023 17:45:14The value of i is 36.
+07/03/2023 17:45:14The value of i is 37.
+07/03/2023 17:45:14The value of i is 38.
+07/03/2023 17:45:14The value of i is 39.
+07/03/2023 17:45:14The value of i is 40.
+07/03/2023 17:45:14The value of i is 41.
+07/03/2023 17:45:14The value of i is 42.
+07/03/2023 17:45:14The value of i is 43.
+07/03/2023 17:45:14The value of i is 44.
+07/03/2023 17:45:14The value of i is 45.
+07/03/2023 17:45:14The value of i is 46.
+07/03/2023 17:45:14The value of i is 47.
+07/03/2023 17:45:14The value of i is 48.
+07/03/2023 17:45:14The value of i is 49.
+07/03/2023 17:45:14Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 17:45:14HTTP GET / responded 200 in 340.3061 ms
+07/03/2023 17:45:17Requested the get method of index page.
+07/03/2023 17:45:17The value of i is 0.
+07/03/2023 17:45:17The value of i is 1.
+07/03/2023 17:45:17The value of i is 2.
+07/03/2023 17:45:17The value of i is 3.
+07/03/2023 17:45:17The value of i is 4.
+07/03/2023 17:45:17The value of i is 5.
+07/03/2023 17:45:17The value of i is 6.
+07/03/2023 17:45:17The value of i is 7.
+07/03/2023 17:45:17The value of i is 8.
+07/03/2023 17:45:17The value of i is 9.
+07/03/2023 17:45:17The value of i is 10.
+07/03/2023 17:45:17The value of i is 11.
+07/03/2023 17:45:17The value of i is 12.
+07/03/2023 17:45:17The value of i is 13.
+07/03/2023 17:45:17The value of i is 14.
+07/03/2023 17:45:17The value of i is 15.
+07/03/2023 17:45:17The value of i is 16.
+07/03/2023 17:45:17The value of i is 17.
+07/03/2023 17:45:17The value of i is 18.
+07/03/2023 17:45:17The value of i is 19.
+07/03/2023 17:45:17The value of i is 20.
+07/03/2023 17:45:17The value of i is 21.
+07/03/2023 17:45:17The value of i is 22.
+07/03/2023 17:45:17The value of i is 23.
+07/03/2023 17:45:17The value of i is 24.
+07/03/2023 17:45:17The value of i is 25.
+07/03/2023 17:45:17The value of i is 26.
+07/03/2023 17:45:17The value of i is 27.
+07/03/2023 17:45:17The value of i is 28.
+07/03/2023 17:45:17The value of i is 29.
+07/03/2023 17:45:17The value of i is 30.
+07/03/2023 17:45:17The value of i is 31.
+07/03/2023 17:45:17The value of i is 32.
+07/03/2023 17:45:17The value of i is 33.
+07/03/2023 17:45:17The value of i is 34.
+07/03/2023 17:45:17The value of i is 35.
+07/03/2023 17:45:17The value of i is 36.
+07/03/2023 17:45:17The value of i is 37.
+07/03/2023 17:45:17The value of i is 38.
+07/03/2023 17:45:17The value of i is 39.
+07/03/2023 17:45:17The value of i is 40.
+07/03/2023 17:45:17The value of i is 41.
+07/03/2023 17:45:17The value of i is 42.
+07/03/2023 17:45:17The value of i is 43.
+07/03/2023 17:45:17The value of i is 44.
+07/03/2023 17:45:17The value of i is 45.
+07/03/2023 17:45:17The value of i is 46.
+07/03/2023 17:45:17The value of i is 47.
+07/03/2023 17:45:17The value of i is 48.
+07/03/2023 17:45:17The value of i is 49.
+07/03/2023 17:45:17Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 17:45:17HTTP GET / responded 200 in 72.8774 ms
+07/03/2023 17:45:17HTTP GET /Privacy responded 200 in 10.1575 ms
+07/03/2023 17:46:15Requested the get method of index page.
+07/03/2023 17:46:15The value of i is 0.
+07/03/2023 17:46:15The value of i is 1.
+07/03/2023 17:46:15The value of i is 2.
+07/03/2023 17:46:15The value of i is 3.
+07/03/2023 17:46:15The value of i is 4.
+07/03/2023 17:46:15The value of i is 5.
+07/03/2023 17:46:15The value of i is 6.
+07/03/2023 17:46:15The value of i is 7.
+07/03/2023 17:46:15The value of i is 8.
+07/03/2023 17:46:15The value of i is 9.
+07/03/2023 17:46:15The value of i is 10.
+07/03/2023 17:46:15The value of i is 11.
+07/03/2023 17:46:15The value of i is 12.
+07/03/2023 17:46:15The value of i is 13.
+07/03/2023 17:46:15The value of i is 14.
+07/03/2023 17:46:15The value of i is 15.
+07/03/2023 17:46:15The value of i is 16.
+07/03/2023 17:46:15The value of i is 17.
+07/03/2023 17:46:15The value of i is 18.
+07/03/2023 17:46:15The value of i is 19.
+07/03/2023 17:46:15The value of i is 20.
+07/03/2023 17:46:15The value of i is 21.
+07/03/2023 17:46:15The value of i is 22.
+07/03/2023 17:46:15The value of i is 23.
+07/03/2023 17:46:15The value of i is 24.
+07/03/2023 17:46:15The value of i is 25.
+07/03/2023 17:46:15The value of i is 26.
+07/03/2023 17:46:15The value of i is 27.
+07/03/2023 17:46:15The value of i is 28.
+07/03/2023 17:46:15The value of i is 29.
+07/03/2023 17:46:15The value of i is 30.
+07/03/2023 17:46:15The value of i is 31.
+07/03/2023 17:46:15The value of i is 32.
+07/03/2023 17:46:15The value of i is 33.
+07/03/2023 17:46:15The value of i is 34.
+07/03/2023 17:46:15The value of i is 35.
+07/03/2023 17:46:15The value of i is 36.
+07/03/2023 17:46:15The value of i is 37.
+07/03/2023 17:46:15The value of i is 38.
+07/03/2023 17:46:15The value of i is 39.
+07/03/2023 17:46:15The value of i is 40.
+07/03/2023 17:46:15The value of i is 41.
+07/03/2023 17:46:15The value of i is 42.
+07/03/2023 17:46:15The value of i is 43.
+07/03/2023 17:46:15The value of i is 44.
+07/03/2023 17:46:15The value of i is 45.
+07/03/2023 17:46:15The value of i is 46.
+07/03/2023 17:46:15The value of i is 47.
+07/03/2023 17:46:15The value of i is 48.
+07/03/2023 17:46:15The value of i is 49.
+07/03/2023 17:46:16Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 17:46:16HTTP GET / responded 200 in 322.6430 ms
+07/03/2023 17:48:22Requested the get method of index page.
+07/03/2023 17:48:22The value of i is 0.
+07/03/2023 17:48:22The value of i is 1.
+07/03/2023 17:48:22The value of i is 2.
+07/03/2023 17:48:22The value of i is 3.
+07/03/2023 17:48:22The value of i is 4.
+07/03/2023 17:48:22The value of i is 5.
+07/03/2023 17:48:22The value of i is 6.
+07/03/2023 17:48:22The value of i is 7.
+07/03/2023 17:48:22The value of i is 8.
+07/03/2023 17:48:22The value of i is 9.
+07/03/2023 17:48:22The value of i is 10.
+07/03/2023 17:48:22The value of i is 11.
+07/03/2023 17:48:22The value of i is 12.
+07/03/2023 17:48:22The value of i is 13.
+07/03/2023 17:48:22The value of i is 14.
+07/03/2023 17:48:22The value of i is 15.
+07/03/2023 17:48:22The value of i is 16.
+07/03/2023 17:48:22The value of i is 17.
+07/03/2023 17:48:22The value of i is 18.
+07/03/2023 17:48:23The value of i is 19.
+07/03/2023 17:48:23The value of i is 20.
+07/03/2023 17:48:23The value of i is 21.
+07/03/2023 17:48:23The value of i is 22.
+07/03/2023 17:48:23The value of i is 23.
+07/03/2023 17:48:23The value of i is 24.
+07/03/2023 17:48:23The value of i is 25.
+07/03/2023 17:48:23The value of i is 26.
+07/03/2023 17:48:23The value of i is 27.
+07/03/2023 17:48:23The value of i is 28.
+07/03/2023 17:48:23The value of i is 29.
+07/03/2023 17:48:23The value of i is 30.
+07/03/2023 17:48:23The value of i is 31.
+07/03/2023 17:48:23The value of i is 32.
+07/03/2023 17:48:23The value of i is 33.
+07/03/2023 17:48:23The value of i is 34.
+07/03/2023 17:48:23The value of i is 35.
+07/03/2023 17:48:23The value of i is 36.
+07/03/2023 17:48:23The value of i is 37.
+07/03/2023 17:48:23The value of i is 38.
+07/03/2023 17:48:23The value of i is 39.
+07/03/2023 17:48:23The value of i is 40.
+07/03/2023 17:48:23The value of i is 41.
+07/03/2023 17:48:23The value of i is 42.
+07/03/2023 17:48:23The value of i is 43.
+07/03/2023 17:48:23The value of i is 44.
+07/03/2023 17:48:23The value of i is 45.
+07/03/2023 17:48:23The value of i is 46.
+07/03/2023 17:48:23The value of i is 47.
+07/03/2023 17:48:23The value of i is 48.
+07/03/2023 17:48:23The value of i is 49.
+07/03/2023 17:48:23Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 17:48:23HTTP GET / responded 200 in 398.4372 ms
+07/03/2023 18:29:21Requested the get method of index page.
+07/03/2023 18:29:21The value of i is 0.
+07/03/2023 18:29:21The value of i is 1.
+07/03/2023 18:29:21The value of i is 2.
+07/03/2023 18:29:21The value of i is 3.
+07/03/2023 18:29:21The value of i is 4.
+07/03/2023 18:29:21The value of i is 5.
+07/03/2023 18:29:21The value of i is 6.
+07/03/2023 18:29:21The value of i is 7.
+07/03/2023 18:29:21The value of i is 8.
+07/03/2023 18:29:21The value of i is 9.
+07/03/2023 18:29:21The value of i is 10.
+07/03/2023 18:29:21The value of i is 11.
+07/03/2023 18:29:21The value of i is 12.
+07/03/2023 18:29:21The value of i is 13.
+07/03/2023 18:29:21The value of i is 14.
+07/03/2023 18:29:21The value of i is 15.
+07/03/2023 18:29:21The value of i is 16.
+07/03/2023 18:29:21The value of i is 17.
+07/03/2023 18:29:21The value of i is 18.
+07/03/2023 18:29:21The value of i is 19.
+07/03/2023 18:29:21The value of i is 20.
+07/03/2023 18:29:21The value of i is 21.
+07/03/2023 18:29:21The value of i is 22.
+07/03/2023 18:29:21The value of i is 23.
+07/03/2023 18:29:21The value of i is 24.
+07/03/2023 18:29:21The value of i is 25.
+07/03/2023 18:29:21The value of i is 26.
+07/03/2023 18:29:21The value of i is 27.
+07/03/2023 18:29:21The value of i is 28.
+07/03/2023 18:29:21The value of i is 29.
+07/03/2023 18:29:21The value of i is 30.
+07/03/2023 18:29:21The value of i is 31.
+07/03/2023 18:29:21The value of i is 32.
+07/03/2023 18:29:21The value of i is 33.
+07/03/2023 18:29:21The value of i is 34.
+07/03/2023 18:29:21The value of i is 35.
+07/03/2023 18:29:21The value of i is 36.
+07/03/2023 18:29:21The value of i is 37.
+07/03/2023 18:29:21The value of i is 38.
+07/03/2023 18:29:21The value of i is 39.
+07/03/2023 18:29:21The value of i is 40.
+07/03/2023 18:29:21The value of i is 41.
+07/03/2023 18:29:21The value of i is 42.
+07/03/2023 18:29:21The value of i is 43.
+07/03/2023 18:29:21The value of i is 44.
+07/03/2023 18:29:21The value of i is 45.
+07/03/2023 18:29:21The value of i is 46.
+07/03/2023 18:29:21The value of i is 47.
+07/03/2023 18:29:21The value of i is 48.
+07/03/2023 18:29:21The value of i is 49.
+07/03/2023 18:29:21Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 18:29:21HTTP GET / responded 200 in 315.2924 ms
+07/03/2023 18:34:01Requested the get method of index page.
+07/03/2023 18:34:01The value of i is 0.
+07/03/2023 18:34:01The value of i is 1.
+07/03/2023 18:34:01The value of i is 2.
+07/03/2023 18:34:01The value of i is 3.
+07/03/2023 18:34:01The value of i is 4.
+07/03/2023 18:34:01The value of i is 5.
+07/03/2023 18:34:01The value of i is 6.
+07/03/2023 18:34:01The value of i is 7.
+07/03/2023 18:34:01The value of i is 8.
+07/03/2023 18:34:01The value of i is 9.
+07/03/2023 18:34:01The value of i is 10.
+07/03/2023 18:34:01The value of i is 11.
+07/03/2023 18:34:01The value of i is 12.
+07/03/2023 18:34:01The value of i is 13.
+07/03/2023 18:34:01The value of i is 14.
+07/03/2023 18:34:01The value of i is 15.
+07/03/2023 18:34:01The value of i is 16.
+07/03/2023 18:34:01The value of i is 17.
+07/03/2023 18:34:01The value of i is 18.
+07/03/2023 18:34:01The value of i is 19.
+07/03/2023 18:34:01The value of i is 20.
+07/03/2023 18:34:01The value of i is 21.
+07/03/2023 18:34:01The value of i is 22.
+07/03/2023 18:34:01The value of i is 23.
+07/03/2023 18:34:01The value of i is 24.
+07/03/2023 18:34:01The value of i is 25.
+07/03/2023 18:34:01The value of i is 26.
+07/03/2023 18:34:01The value of i is 27.
+07/03/2023 18:34:01The value of i is 28.
+07/03/2023 18:34:01The value of i is 29.
+07/03/2023 18:34:01The value of i is 30.
+07/03/2023 18:34:01The value of i is 31.
+07/03/2023 18:34:01The value of i is 32.
+07/03/2023 18:34:01The value of i is 33.
+07/03/2023 18:34:01The value of i is 34.
+07/03/2023 18:34:01The value of i is 35.
+07/03/2023 18:34:01The value of i is 36.
+07/03/2023 18:34:01The value of i is 37.
+07/03/2023 18:34:01The value of i is 38.
+07/03/2023 18:34:01The value of i is 39.
+07/03/2023 18:34:01The value of i is 40.
+07/03/2023 18:34:01The value of i is 41.
+07/03/2023 18:34:01The value of i is 42.
+07/03/2023 18:34:01The value of i is 43.
+07/03/2023 18:34:01The value of i is 44.
+07/03/2023 18:34:01The value of i is 45.
+07/03/2023 18:34:01The value of i is 46.
+07/03/2023 18:34:01The value of i is 47.
+07/03/2023 18:34:01The value of i is 48.
+07/03/2023 18:34:01The value of i is 49.
+07/03/2023 18:34:01Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 18:34:01HTTP GET / responded 200 in 280.0161 ms
+07/03/2023 18:36:12Requested the get method of index page.
+07/03/2023 18:36:22The value of i is 0.
+07/03/2023 18:36:22The value of i is 1.
+07/03/2023 18:36:22The value of i is 2.
+07/03/2023 18:36:22The value of i is 3.
+07/03/2023 18:36:22The value of i is 4.
+07/03/2023 18:36:22The value of i is 5.
+07/03/2023 18:36:22The value of i is 6.
+07/03/2023 18:36:22The value of i is 7.
+07/03/2023 18:36:22The value of i is 8.
+07/03/2023 18:36:22The value of i is 9.
+07/03/2023 18:36:22The value of i is 10.
+07/03/2023 18:36:22The value of i is 11.
+07/03/2023 18:36:22The value of i is 12.
+07/03/2023 18:36:22The value of i is 13.
+07/03/2023 18:36:22The value of i is 14.
+07/03/2023 18:36:22The value of i is 15.
+07/03/2023 18:36:22The value of i is 16.
+07/03/2023 18:36:22The value of i is 17.
+07/03/2023 18:36:22The value of i is 18.
+07/03/2023 18:36:22The value of i is 19.
+07/03/2023 18:36:22The value of i is 20.
+07/03/2023 18:36:22The value of i is 21.
+07/03/2023 18:36:22The value of i is 22.
+07/03/2023 18:36:22The value of i is 23.
+07/03/2023 18:36:22The value of i is 24.
+07/03/2023 18:36:22The value of i is 25.
+07/03/2023 18:36:22The value of i is 26.
+07/03/2023 18:36:22The value of i is 27.
+07/03/2023 18:36:22The value of i is 28.
+07/03/2023 18:36:22The value of i is 29.
+07/03/2023 18:36:22The value of i is 30.
+07/03/2023 18:36:22The value of i is 31.
+07/03/2023 18:36:22The value of i is 32.
+07/03/2023 18:36:22The value of i is 33.
+07/03/2023 18:36:22The value of i is 34.
+07/03/2023 18:36:22The value of i is 35.
+07/03/2023 18:36:22The value of i is 36.
+07/03/2023 18:36:22The value of i is 37.
+07/03/2023 18:36:22The value of i is 38.
+07/03/2023 18:36:22The value of i is 39.
+07/03/2023 18:36:22The value of i is 40.
+07/03/2023 18:36:22The value of i is 41.
+07/03/2023 18:36:22The value of i is 42.
+07/03/2023 18:36:22The value of i is 43.
+07/03/2023 18:36:22The value of i is 44.
+07/03/2023 18:36:22The value of i is 45.
+07/03/2023 18:36:22The value of i is 46.
+07/03/2023 18:36:22The value of i is 47.
+07/03/2023 18:36:22The value of i is 48.
+07/03/2023 18:36:22The value of i is 49.
+07/03/2023 18:36:22Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 18:36:22HTTP GET / responded 200 in 14112.7003 ms
+07/03/2023 18:37:42Requested the get method of index page.
+07/03/2023 18:37:42The value of i is 0.
+07/03/2023 18:37:42The value of i is 1.
+07/03/2023 18:37:42The value of i is 2.
+07/03/2023 18:37:42The value of i is 3.
+07/03/2023 18:37:42The value of i is 4.
+07/03/2023 18:37:42The value of i is 5.
+07/03/2023 18:37:42The value of i is 6.
+07/03/2023 18:37:42The value of i is 7.
+07/03/2023 18:37:42The value of i is 8.
+07/03/2023 18:37:42The value of i is 9.
+07/03/2023 18:37:42The value of i is 10.
+07/03/2023 18:37:42The value of i is 11.
+07/03/2023 18:37:42The value of i is 12.
+07/03/2023 18:37:42The value of i is 13.
+07/03/2023 18:37:42The value of i is 14.
+07/03/2023 18:37:42The value of i is 15.
+07/03/2023 18:37:42The value of i is 16.
+07/03/2023 18:37:42The value of i is 17.
+07/03/2023 18:37:42The value of i is 18.
+07/03/2023 18:37:42The value of i is 19.
+07/03/2023 18:37:42The value of i is 20.
+07/03/2023 18:37:42The value of i is 21.
+07/03/2023 18:37:42The value of i is 22.
+07/03/2023 18:37:42The value of i is 23.
+07/03/2023 18:37:42The value of i is 24.
+07/03/2023 18:37:42The value of i is 25.
+07/03/2023 18:37:42The value of i is 26.
+07/03/2023 18:37:42The value of i is 27.
+07/03/2023 18:37:42The value of i is 28.
+07/03/2023 18:37:42The value of i is 29.
+07/03/2023 18:37:42The value of i is 30.
+07/03/2023 18:37:42The value of i is 31.
+07/03/2023 18:37:42The value of i is 32.
+07/03/2023 18:37:42The value of i is 33.
+07/03/2023 18:37:42The value of i is 34.
+07/03/2023 18:37:42The value of i is 35.
+07/03/2023 18:37:42The value of i is 36.
+07/03/2023 18:37:42The value of i is 37.
+07/03/2023 18:37:42The value of i is 38.
+07/03/2023 18:37:42The value of i is 39.
+07/03/2023 18:37:42The value of i is 40.
+07/03/2023 18:37:42The value of i is 41.
+07/03/2023 18:37:42The value of i is 42.
+07/03/2023 18:37:42The value of i is 43.
+07/03/2023 18:37:42The value of i is 44.
+07/03/2023 18:37:42The value of i is 45.
+07/03/2023 18:37:42The value of i is 46.
+07/03/2023 18:37:42The value of i is 47.
+07/03/2023 18:37:42The value of i is 48.
+07/03/2023 18:37:42The value of i is 49.
+07/03/2023 18:37:42Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 18:37:42HTTP GET / responded 200 in 2348.5281 ms
+07/03/2023 18:38:48HTTP GET / responded 500 in 27779.2406 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:38:48An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:40:48HTTP GET / responded 500 in 12479.6619 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:40:48An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:42:50HTTP GET / responded 500 in 5670.7334 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:42:50An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:44:31HTTP GET / responded 500 in 37666.5358 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:44:32An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:46:45HTTP GET / responded 500 in 2549.3279 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:46:45An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:50:52HTTP GET / responded 500 in 2034.0766 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:50:52An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:57:02Started transaction with span ID '7922779a8e8f4818' and trace ID 'f230facc452846e59ab3937772d38119'.
+07/03/2023 18:57:03HTTP GET / responded 500 in 1632.9783 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:57:03Envelope queued up: 'd2f4dcea230b46d99a158aad30076c35'
+07/03/2023 18:57:03An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:57:04Envelope 'd2f4dcea230b46d99a158aad30076c35' successfully sent.
+07/03/2023 18:59:16Started transaction with span ID '5c096505ebb54117' and trace ID 'fdac488c0442416f91c7bdaae3ca0805'.
+07/03/2023 18:59:18HTTP GET / responded 500 in 1828.7636 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 18:59:18Envelope queued up: '02257974110c4f0ead0cfe58a0ac243b'
+07/03/2023 18:59:18An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 18:59:19Envelope '02257974110c4f0ead0cfe58a0ac243b' successfully sent.
+07/03/2023 19:04:15Started transaction with span ID 'b3514dbc8e5941a4' and trace ID 'bef96f7a7b2641a28896ebf14bd37a13'.
+07/03/2023 19:04:18HTTP GET / responded 500 in 2887.3883 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 19:04:18Envelope queued up: '3880f6362fe4461787ea0abe00dcc483'
+07/03/2023 19:04:18An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 19:04:18Envelope '3880f6362fe4461787ea0abe00dcc483' successfully sent.
+07/03/2023 19:07:20Started transaction with span ID 'bedf476b0ca546be' and trace ID 'e49a895b927742a991bec3cc0c1314da'.
+07/03/2023 19:07:23HTTP GET / responded 500 in 2923.8222 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 19:07:23Envelope queued up: 'f26f29c7846d4025a24e86564858bec3'
+07/03/2023 19:07:23An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 19:07:23Envelope 'f26f29c7846d4025a24e86564858bec3' successfully sent.
+07/03/2023 19:10:12Started transaction with span ID '35a86589fc324813' and trace ID 'c0c74ae86f174dd68ee19a75539ba8b4'.
+07/03/2023 19:10:15HTTP GET / responded 500 in 2044.0489 ms
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+07/03/2023 19:10:15Envelope queued up: '29c533c2cee941e6902ee6618e9cd2d4'
+07/03/2023 19:10:15An unhandled exception has occurred while executing the request.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 17
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Sentry.AspNetCore.SentryTracingMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+07/03/2023 19:10:15Envelope '29c533c2cee941e6902ee6618e9cd2d4' successfully sent.

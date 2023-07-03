@@ -1,0 +1,55 @@
+07/03/2023 17:46:15Requested the get method of index page.
+07/03/2023 17:46:15The value of i is 0.
+07/03/2023 17:46:15The value of i is 1.
+07/03/2023 17:46:15The value of i is 2.
+07/03/2023 17:46:15The value of i is 3.
+07/03/2023 17:46:15The value of i is 4.
+07/03/2023 17:46:15The value of i is 5.
+07/03/2023 17:46:15The value of i is 6.
+07/03/2023 17:46:15The value of i is 7.
+07/03/2023 17:46:15The value of i is 8.
+07/03/2023 17:46:15The value of i is 9.
+07/03/2023 17:46:15The value of i is 10.
+07/03/2023 17:46:15The value of i is 11.
+07/03/2023 17:46:15The value of i is 12.
+07/03/2023 17:46:15The value of i is 13.
+07/03/2023 17:46:15The value of i is 14.
+07/03/2023 17:46:15The value of i is 15.
+07/03/2023 17:46:15The value of i is 16.
+07/03/2023 17:46:15The value of i is 17.
+07/03/2023 17:46:15The value of i is 18.
+07/03/2023 17:46:15The value of i is 19.
+07/03/2023 17:46:15The value of i is 20.
+07/03/2023 17:46:15The value of i is 21.
+07/03/2023 17:46:15The value of i is 22.
+07/03/2023 17:46:15The value of i is 23.
+07/03/2023 17:46:15The value of i is 24.
+07/03/2023 17:46:15The value of i is 25.
+07/03/2023 17:46:15The value of i is 26.
+07/03/2023 17:46:15The value of i is 27.
+07/03/2023 17:46:15The value of i is 28.
+07/03/2023 17:46:15The value of i is 29.
+07/03/2023 17:46:15The value of i is 30.
+07/03/2023 17:46:15The value of i is 31.
+07/03/2023 17:46:15The value of i is 32.
+07/03/2023 17:46:15The value of i is 33.
+07/03/2023 17:46:15The value of i is 34.
+07/03/2023 17:46:15The value of i is 35.
+07/03/2023 17:46:15The value of i is 36.
+07/03/2023 17:46:15The value of i is 37.
+07/03/2023 17:46:15The value of i is 38.
+07/03/2023 17:46:15The value of i is 39.
+07/03/2023 17:46:15The value of i is 40.
+07/03/2023 17:46:15The value of i is 41.
+07/03/2023 17:46:15The value of i is 42.
+07/03/2023 17:46:15The value of i is 43.
+07/03/2023 17:46:15The value of i is 44.
+07/03/2023 17:46:15The value of i is 45.
+07/03/2023 17:46:15The value of i is 46.
+07/03/2023 17:46:15The value of i is 47.
+07/03/2023 17:46:15The value of i is 48.
+07/03/2023 17:46:15The value of i is 49.
+07/03/2023 17:46:16Exception caught in index get method.
+System.Exception: This is demo exception
+   at WebApplication1.Pages.IndexModel.OnGet() in C:\Users\jay\Documents\Demo1\WebApplication1\WebApplication1\Pages\Index.cshtml.cs:line 24
+07/03/2023 17:46:16HTTP GET / responded 200 in 322.6430 ms
